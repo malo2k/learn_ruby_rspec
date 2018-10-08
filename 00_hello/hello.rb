@@ -1,5 +1,5 @@
 def hello
-	"Hello!"
+	test_1 = "Hello!"
 end
 
 def greet(name)
